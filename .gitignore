@@ -1,2 +1,5 @@
 
+*.pyc
+backend/.venv
+backend/.env
 /.vscode
